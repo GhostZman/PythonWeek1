@@ -18,7 +18,7 @@
 
 # Introduction
 
-This series is built to teach python as a first text-based programming language. Prior knowledge of block-based coding may be helpful, but is not essential. Each week will introduces key programming concepts and how they are used in python.
+This series is built to teach Python as a first text-based programming language. Prior knowledge of block-based coding may be helpful, but is not essential. Each week will introduces key programming concepts and how they are used in Python.
 
 This week, you will get set up to begin coding, and learn the basics of how to make a program interact with it's user.
 
@@ -28,7 +28,7 @@ This week, you will get set up to begin coding, and learn the basics of how to m
 
 Before you can start programming, you need a place to store your code. While you could just store it on whatever computer you are using, that requires more setup and limits you to programming only on that device. Instead you will be using **[GitHub](https://github.com)** to store repositories of your code so it can be accessed anywhere. You will also be using GitHub's web based code editor **Codespaces**.
 
-Alternatively, instead of codespaces you can do your code editing on your own computer with more setup so you can edit your code without an internet connection and upload it to github when you are connected. If you would like to do this, instructions are in [Local-Code-Setup](Local-Code-Setup.md).
+Alternatively, instead of codespaces you can do your code editing on your own computer with more setup so you can edit your code without an internet connection and upload it to github when you are connected. If you would like to do this, instructions are in [Local-Code-Setup](local_code_setup.md).
 
 Here's what you should do:
 
@@ -48,3 +48,22 @@ Here's what you should do:
 ---
 
 # Repository Overview
+
+This repository contains:
+ - **README.md**: Instructions for using this repository (this is what you are currently reading).
+ - **Week_1_Example.ipynb**: Jupyter notebook of examples for this week's programming concepts.
+ - **Debugging_Tips.md**: Quick guide to common Python errors.
+ - **Local_Code_Setup.md**: Instructions for offline coding on a personal computer.
+ - **Week_1_Activities.ipynb**: Jupyter notebook of activities for this week's programming concepts.
+
+---
+
+# How to Use Jupyter Notebooks
+
+Jupyter notebooks are a tool to develop and document code. Any file with the file extention .ipynb is a jupyter notebook.
+
+Jupyter notebooks consist of boxes called cells. Each cell is either a code cell, which can run whatever code is in it, or a markdown cell, which contains text. Code cells can be run by pressing the "play" button to the left of the cell, or by selecting the cell and pressing **Shift + Enter**. When run, a cell will run its code and will show its progess in its lower left corner. When it's done, it will either displace a checkmark or X to show if it succeeded or had an error, and display how long it took to run.
+
+Cells will run individually, so each cell will need to be run, however code in a cell that has already been run will affect future code.
+
+---
