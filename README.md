@@ -40,4 +40,11 @@ Here's what you should do:
 2. Fork [this repository](https://github.com/GhostZman/PythonWeek1) to your GitHub account
     - Click on the link above.
     - Click the Fork button at the top right of the page.
+    - Click the Create fork button.
 3. Open the repsoitory in **GitHub Codespaces**
+    - Click the green Code button.
+    - Click the Create codespace on main button.
+
+---
+
+# Repository Overview
