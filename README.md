@@ -79,3 +79,27 @@ Cells will run individually, so each cell will need to be run, however code in a
 3. Use the blank cells at the bottom of the notebook to experiment and write your own code.
 4. Open the [Week_1_Activities.ipynb](Week_1_Activities.ipynb) notebook.
 5. Try the activites to practice your new coding skills.
+
+---
+
+# Debugging Tips
+
+Check the [Debugging_Tips.md](Debugging_Tips.md) file for help with common Python errors, such as:
+ - Syntax errors (e.g., missing parentheses or quotes).
+  - Variable name mistakes (e.g., typos in variable names).
+
+---
+
+# FAQs
+
+**Q: What happens if I close my Codespace?**
+
+A: Your changes are automatically saved. when you reopen your Codespace, your work will still be there.
+
+**Q: Can I break the code?**
+
+A: You can't permanenty break anything! Experimenting is part of learning.
+
+**Q: Where can I ask for help?**
+
+A: Ask your instructor or check the [Debugging_Tips.md](Debugging_Tips.md) file for guidance.
