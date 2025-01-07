@@ -60,10 +60,22 @@ This repository contains:
 
 # How to Use Jupyter Notebooks
 
-Jupyter notebooks are a tool to develop and document code. Any file with the file extention .ipynb is a jupyter notebook.
+Jupyter notebooks are a tool to develop and document code. Any file with the file extention **.ipynb** is a jupyter notebook.
 
 Jupyter notebooks consist of boxes called cells. Each cell is either a code cell, which can run whatever code is in it, or a markdown cell, which contains text. Code cells can be run by pressing the "play" button to the left of the cell, or by selecting the cell and pressing **Shift + Enter**. When run, a cell will run its code and will show its progess in its lower left corner. When it's done, it will either displace a checkmark or X to show if it succeeded or had an error, and display how long it took to run.
 
 Cells will run individually, so each cell will need to be run, however code in a cell that has already been run will affect future code.
 
 ---
+
+# Week 1 Instructions
+
+1. Open the [Week_1_Examples.ipynb](Week_1_Examples.ipynb) notebook.
+    - Look to the left side of codespaces to see the file explorer, which shows all the files in this repository.
+2. Follow the instructions inside the notebook:
+    - Learn to use the `print()` function.
+    - Experiment with variables.
+    - Try the `input()` function to get user input.
+3. Use the blank cells at the bottom of the notebook to experiment and write your own code.
+4. Open the [Week_1_Activities.ipynb](Week_1_Activities.ipynb) notebook.
+5. Try the activites to practice your new coding skills.
