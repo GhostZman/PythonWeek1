@@ -91,9 +91,27 @@ there are a few extensions that you should make sure are installed in VSCode to 
 3. Click install on that extention.
 4. Do the same thing with the extentions "Pylance" and "Jupyter".
 
+### Connecting GitHub to VSCode
+
+
+
 ### Cloning Repositories
 
 1. Go to your GitHub account and find the repository you forked.
 1. Press *Ctrl* (or *Cmd*) + *Shift* + *P*.
 2. Search for and click on "Git: Clone".
-3. 
+3. Click "Clone from GitHub".
+4. Wait for your repositories to load.
+5. Click on the Repository you want to clone.
+6. Go to wherever you want to store the repository on your computer.
+7. Click "Select as Repository Destination
+8. Add the repository to your workspace
+
+## Using VSCode and Github
+
+Now you can code freely in your repositories. Every so often you are going to want to save your work and *commit* it to GitHub, so you can access it anywhere. 
+1. Save the files you are working on with *Ctrl (or Cmd)* + *S*. 
+    - If your explorer icon has a number next to it, that number is the number of unsaved files in your workspace.
+2. Navigate to the "Source Control" tab by clicking on it on the left side of the screen, or by pressing *Ctrl (or Cmd)* + *Shift* + *G*. 
+3. You need to create a commit message which says what you changed since your last commit.
+4. Click the commit button.
