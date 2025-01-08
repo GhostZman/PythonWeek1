@@ -115,3 +115,10 @@ Now you can code freely in your repositories. Every so often you are going to wa
 2. Navigate to the "Source Control" tab by clicking on it on the left side of the screen, or by pressing *Ctrl (or Cmd)* + *Shift* + *G*. 
 3. You need to create a commit message which says what you changed since your last commit.
 4. Click the commit button.
+5. Click "Sync Changes" to upload your changes to GitHub.
+
+Whenever you switch computers, or switch between VSCode and Codespaces, you will need to pull your changes to start working on them again. This must be done when switching from VSCode *to* Codespaces **<u>AND</u>** from Codespaces *to* VSCode.
+
+1. Go to "Source Control".
+2. Click on the 3 dots that appear when you hover over the sources dropdown at the top of the Source Control tab.
+3. Click "Pull".
