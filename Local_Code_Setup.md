@@ -122,3 +122,5 @@ Whenever you switch computers, or switch between VSCode and Codespaces, you will
 1. Go to "Source Control".
 2. Click on the 3 dots that appear when you hover over the sources dropdown at the top of the Source Control tab.
 3. Click "Pull".
+
+Failing to follow these steps, to either Sync you code to GitHub or pull you code will result in you either having to merge 2 versions of your code, or lose some of your changes.
