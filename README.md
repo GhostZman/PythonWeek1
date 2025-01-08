@@ -1,6 +1,6 @@
 # Python Week 1
 
-**Topic:** GitHub Setup, Jupyter Notebooks, input(), print(), and variables
+**Topic:** GitHub Setup, Jupyter Notebooks, `input()`, `print()`, and variables
 
 ---
 
@@ -51,7 +51,7 @@ Here's what you should do:
 
 This repository contains:
  - **README.md**: Instructions for using this repository (this is what you are currently reading).
- - **Week_1_Example.ipynb**: Jupyter notebook of examples for this week's programming concepts.
+ - **Week_1_Examples.ipynb**: Jupyter notebook of examples for this week's programming concepts.
  - **Debugging_Tips.md**: Quick guide to common Python errors.
  - **Local_Code_Setup.md**: Instructions for offline coding on a personal computer.
  - **Week_1_Activities.ipynb**: Jupyter notebook of activities for this week's programming concepts.
