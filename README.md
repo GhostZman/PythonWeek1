@@ -28,7 +28,7 @@ This week, you will get set up to begin coding, and learn the basics of how to m
 
 Before you can start programming, you need a place to store your code. While you could just store it on whatever computer you are using, that requires more setup and limits you to programming only on that device. Instead you will be using **[GitHub](https://github.com)** to store repositories of your code so it can be accessed anywhere. You will also be using GitHub's web based code editor **Codespaces**.
 
-Alternatively, instead of codespaces you can do your code editing on your own computer with more setup so you can edit your code without an internet connection and upload it to github when you are connected. If you would like to do this, instructions are in [Local-Code-Setup](local_code_setup.md).
+Alternatively, instead of codespaces you can do your code editing on your own computer with more setup so you can edit your code without an internet connection and upload it to github when you are connected. If you would like to do this, instructions are in [Local-Code-Setup](Local_Code_Setup.md).
 
 Here's what you should do:
 
